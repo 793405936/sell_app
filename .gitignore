@@ -4,14 +4,11 @@ dist/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+resource/
 resource/img/brand@3x.png
 resource/img/brand@2x.png
-*.png
 *.psd
 *.mkm
 *.svg
 *.jpg
-*.png
-*.png
 src/common/fonts/sell-icon.svg
-src/components/goods/decrease_3@2x.png
