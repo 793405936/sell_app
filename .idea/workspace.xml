@@ -115,7 +115,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="516">
-              <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -375,12 +375,12 @@
       <workItem from="1497797415682" duration="599000" />
       <workItem from="1497924346154" duration="1211000" />
       <workItem from="1498112344010" duration="67000" />
-      <workItem from="1498113673460" duration="483000" />
+      <workItem from="1498113673460" duration="771000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42993000" />
+    <option name="totallyTimeSpent" value="43281000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="0" width="1930" height="1030" extended-state="1" />
@@ -792,7 +792,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="516">
-          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
